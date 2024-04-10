@@ -4,6 +4,12 @@ This repository contains the scripts used to analyze data and create figures for
 
 Raw sequencing data are deposited in the NCBI Sequence Read Archive (SRA) under BioProject [PRJNA757245](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA757245)
 
+Open Access publication avilable here: https://doi.org/10.1038/s41396-022-01283-y
+
+Full citation: 
+
+Cárdenas, A., Raina, JB., Pogoreutz, C. et al. Greater functional diversity and redundancy of coral endolithic microbiomes align with lower coral bleaching susceptibility. ISME J 16, 2406–2420 (2022). https://doi.org/10.1038/s41396-022-01283-y
+
 ## Workflow
 
 ### Metabaracoding - 16S rRNA data analysis
